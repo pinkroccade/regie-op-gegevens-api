@@ -2,4 +2,4 @@
 API om gebruik van persoonsgegevens op te vragen
 
 # API Specificatie
-[Swagger ui](https://petstore.swagger.io/?url=https://github.com/pinkroccade/regie-op-gegevens-api/blob/main/openapi-bundle.yaml)
+[Swagger ui](https://petstore.swagger.io/?url=https://raw.githubusercontent.com/pinkroccade/regie-op-gegevens-api/main/openapi-bundle.yaml)
